@@ -1,0 +1,21 @@
+Qual é o país com maior extensão territorial do mundo?;Rússia;Canadá;China;Estados Unidos;Brasil
+Quem escreveu a obra "A Divina Comédia"?;Dante Alighieri;William Shakespeare;Miguel de Cervantes;Homer;Geoffrey Chaucer
+Qual é o nome da teoria que propõe a existência de universos paralelos?;Teoria das cordas;Teoria da relatividade geral;Teoria do Big Bang;Teoria da gravidade quântica de loop;Teoria da supergravidade
+Qual é o nome do filósofo grego conhecido por suas reflexões sobre ética e moral?;Aristóteles;Platão;Sócrates;Epicteto;Heráclito
+Qual é o elemento químico mais leve?;Hidrogênio;Hélio;Lítio;Carbono;Oxigênio
+Quem foi o autor do livro "1984"?;George Orwell;Aldous Huxley;Ray Bradbury;J.R.R. Tolkien;Fyodor Dostoyevsky
+Qual é o maior vulcão em atividade do mundo?;Mauna Loa;Mount Etna;Kilauea;Mount Fuji;Popocatépetl
+Qual foi a primeira mulher a ganhar um Prêmio Nobel?;Marie Curie;Rosalind Franklin;Dorothy Hodgkin;Ada Yonath;Françoise Barré-Sinoussi
+Qual é o nome do famoso quadro de Salvador Dalí que retrata relógios derretendo?;A Persistência da Memória;A Noite Estrelada;O Grito;O Nascimento de Vênus;Guernica
+Quem foi o primeiro ser humano a escalar o Monte Everest sem o uso de oxigênio suplementar?;Reinhold Messner;Tenzing Norgay;Edmund Hillary;Junko Tabei;Maurice Herzog
+Qual elemento químico o sol está fundindo atualmente?;Hidrogênio;Hélio;Lítio;Carbono;Oxigênio
+Se um carro viaja a uma velocidade média de 60 km/h por 2 horas, qual é a distância percorrida?;120
+Qual é a soma dos ângulos internos de um pentágono?;540
+Qual é o próximo número na sequência: 1, 1, 2, 3, 5, ?;8
+Quem descobriu a teoria da relatividade?;Albert Einstein;Isaac Newton;Galileo Galilei;Nikola Tesla;Marie Curie
+Qual é o valor de π (pi) aproximado?;3,14159;3,14286;3,13975;3,14062;3,14103
+Quem formulou a teoria da evolução por seleção natural?;Charles Darwin;Gregor Mendel;Alfred Russel Wallace;Jean-Baptiste Lamarck;Richard Dawkins
+Qual é a única cidade do mundo que está situada em dois continentes?;Istambul;Cairo;Atenas;Roma;Moscou
+Se o logaritmo de x na base 2 é igual a 4, qual é o valor de x?;16
+Um fazendeiro tem 17 ovelhas. Todas, exceto nove, morreram. Quantas ovelhas o fazendeiro tem agora?;9
+Se dois tijolos pesam juntos 2kg e meia tonelada (500kg) é igual a quantos tijolos?;

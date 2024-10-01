@@ -1,0 +1,20 @@
+Qual é a capital da França?;Paris;Londres;Berlim;Madri;Roma
+Qual bicho transmite Doença de Chagas?;Barbeiro;Mosquito;Pulga;Carrapato;Aranha
+Quem pintou a Mona Lisa?;Leonardo da Vinci;Michelangelo;Pablo Picasso;Van Gogh;Salvador Dalí
+Qual é o maior planeta do sistema solar?;Júpiter;Netuno;Saturno;Marte;Urano
+Qual é o coletivo de cães?;Matilha;Alcateia;Bando;Rebanho;Ninhada
+Qual é a fórmula química da água?;H2O;H2SO4;CO2;NaCl;C6H12O6
+Quem escreveu a peça "Romeu e Julieta"?;William Shakespeare;Charles Dickens;Mark Twain;Jane Austen;Victor Hugo
+Qual é o maior oceano do mundo?;Oceano Pacífico;Oceano Atlântico;Oceano Índico;Oceano Ártico;Oceano Antártico
+Quem foi o primeiro presidente dos Estados Unidos?;George Washington;Thomas Jefferson;Abraham Lincoln;John F. Kennedy;Barack Obama
+Quantos elementos químicos existem na tabela periódica atualmente?;118;92;104;137;64
+Qual é o nome do primeiro ser humano a pisar na lua?;Neil Armstrong;Buzz Aldrin;Michael Collins;Yuri Gagarin;Alan Shepard
+Qual é o símbolo químico do ouro?;Au;Ag;Hg;Pt;Cu
+Seguindo a sequência do baralho, qual carta vem depois do dez?;Valete;Dama;Rei;Ás;Dois
+Quantos lados tem um triângulo?;3
+Qual é o próximo número na sequência: 2, 4, 6, 8, ?;10
+Se um pacote de lápis contém 12 unidades, quantos lápis há em 3 pacotes?;36
+Qual é o número que vem depois de 9?;10
+Qual é a raiz quadrada de 81?;9
+Quantos paises tem no mundo?;193;203;185;172;140
+(2⁷ + 5²) x (8⁰ * 0) = ?;0

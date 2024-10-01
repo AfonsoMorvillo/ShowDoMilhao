@@ -1,0 +1,15 @@
+Qual é o país com maior extensão territorial do mundo?;Rússia;Canadá;China;Estados Unidos;Brasil
+Quem escreveu a obra "A Divina Comédia"?;Dante Alighieri;William Shakespeare;Miguel de Cervantes;Homer;Geoffrey Chaucer
+Qual é o nome da teoria que propõe a existência de universos paralelos?;Teoria das cordas;Teoria da relatividade geral;Teoria do Big Bang;Teoria da gravidade quântica de loop;Teoria da supergravidade
+Qual é o nome do filósofo grego conhecido por suas reflexões sobre ética e moral?;Aristóteles;Platão;Sócrates;Epicteto;Heráclito
+Qual é o elemento químico mais leve?;Hidrogênio;Hélio;Lítio;Carbono;Oxigênio
+Quem foi o autor do livro "1984"?;George Orwell;Aldous Huxley;Ray Bradbury;J.R.R. Tolkien;Fyodor Dostoyevsky
+Qual é o maior vulcão em atividade do mundo?;Mauna Loa;Mount Etna;Kilauea;Mount Fuji;Popocatépetl
+Qual foi a primeira mulher a ganhar um Prêmio Nobel?;Marie Curie;Rosalind Franklin;Dorothy Hodgkin;Ada Yonath;Françoise Barré-Sinoussi
+Qual é o nome do famoso quadro de Salvador Dalí que retrata relógios derretendo?;A Persistência da Memória;A Noite Estrelada;O Grito;O Nascimento de Vênus;Guernica
+Quem foi o primeiro ser humano a escalar o Monte Everest sem o uso de oxigênio suplementar?;Reinhold Messner;Tenzing Norgay;Edmund Hillary;Junko Tabei;Maurice Herzog
+Quantos buracos existem em uma bola de boliche?;3
+Quantos jogadores compõem uma equipe de basquete?;5
+Se um carro viaja a uma velocidade média de 60 km/h por 2 horas, qual é a distância percorrida?;120
+Qual é a soma dos ângulos internos de um pentágono?;540
+Qual é o próximo número na sequência: 1, 1, 2, 3, 5, ?;8
